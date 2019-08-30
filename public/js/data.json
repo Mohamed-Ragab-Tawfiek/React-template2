@@ -1,0 +1,87 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile UX",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum fuga nam unde aliquam doloremque harum iste iusto quos ipsa quam voluptas ut fugiat facere, saepe totam ad perferendis quo sunt!"
+        },
+        {
+            "id": 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile UX",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum fuga nam unde aliquam doloremque harum iste iusto quos ipsa quam voluptas ut fugiat facere, saepe totam ad perferendis quo sunt!"
+        },
+        {
+            "id": 1,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile UX",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum fuga nam unde aliquam doloremque harum iste iusto quos ipsa quam voluptas ut fugiat facere, saepe totam ad perferendis quo sunt!"
+        }
+
+    ],
+
+    "portofolio": [
+        {
+            "id": 1,
+            "image": "/images/Portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "/images/Portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id": 3,
+            "image": "/images/Portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id": 4,
+            "image": "/images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id": 5,
+            "image": "/images/Portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id": 6,
+            "image": "/images/Portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id": 7,
+            "image": "/images/Portfolio/portfolio-img7.jpg"
+        },
+        {
+            "id": 8,
+            "image": "/images/Portfolio/portfolio-img8.jpg"
+        }
+    ],
+
+    "Profile": [
+        {"id":1, "topic": "name", "info": "Mohamed Ragab"},
+        {"id":2, "topic": "phone", "info": "01122535917"},
+        {"id":3, "topic": "Email", "info": "m.ragab111@yahoo.com"},
+        {"id":4, "topic": "Address", "info": "Beni Suef / Egypt"}
+        
+    ],
+
+    "social": [
+        {
+            "id": 1,
+            "icon": "icon fa fa-facebook fa-lg",
+            "title": "Follow Me on",
+            "body": "Social facebook"
+        },
+        {
+            "id": 2,
+            "icon": "icon fa fa-twitter fa-lg",
+            "title": "Tweet Me on",
+            "body": "Social Twitter"
+        },
+        {
+            "id": 3,
+            "icon": "icon fa fa-pinterest fa-lg",
+            "title": "Pin Me on",
+            "body": "Social Pinterset"
+        }
+    ]
+}
