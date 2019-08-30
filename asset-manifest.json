@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Mohamed-Ragab-Tawfiek/React-template2/static/css/main.ff3b621c.chunk.css",
-    "main.js": "/Mohamed-Ragab-Tawfiek/React-template2/static/js/main.e2c894cb.chunk.js",
-    "main.js.map": "/Mohamed-Ragab-Tawfiek/React-template2/static/js/main.e2c894cb.chunk.js.map",
-    "runtime~main.js": "/Mohamed-Ragab-Tawfiek/React-template2/static/js/runtime~main.87aefab7.js",
-    "runtime~main.js.map": "/Mohamed-Ragab-Tawfiek/React-template2/static/js/runtime~main.87aefab7.js.map",
-    "static/css/2.f65acde2.chunk.css": "/Mohamed-Ragab-Tawfiek/React-template2/static/css/2.f65acde2.chunk.css",
-    "static/js/2.6822e3fc.chunk.js": "/Mohamed-Ragab-Tawfiek/React-template2/static/js/2.6822e3fc.chunk.js",
-    "static/js/2.6822e3fc.chunk.js.map": "/Mohamed-Ragab-Tawfiek/React-template2/static/js/2.6822e3fc.chunk.js.map",
-    "index.html": "/Mohamed-Ragab-Tawfiek/React-template2/index.html",
-    "precache-manifest.8b33493d838c56cc8fa347bb43f6265d.js": "/Mohamed-Ragab-Tawfiek/React-template2/precache-manifest.8b33493d838c56cc8fa347bb43f6265d.js",
-    "service-worker.js": "/Mohamed-Ragab-Tawfiek/React-template2/service-worker.js",
-    "static/css/2.f65acde2.chunk.css.map": "/Mohamed-Ragab-Tawfiek/React-template2/static/css/2.f65acde2.chunk.css.map",
-    "static/css/main.ff3b621c.chunk.css.map": "/Mohamed-Ragab-Tawfiek/React-template2/static/css/main.ff3b621c.chunk.css.map"
+    "main.css": "/React-template2/static/css/main.ff3b621c.chunk.css",
+    "main.js": "/React-template2/static/js/main.7dc7a889.chunk.js",
+    "main.js.map": "/React-template2/static/js/main.7dc7a889.chunk.js.map",
+    "runtime~main.js": "/React-template2/static/js/runtime~main.fb8911d3.js",
+    "runtime~main.js.map": "/React-template2/static/js/runtime~main.fb8911d3.js.map",
+    "static/css/2.f65acde2.chunk.css": "/React-template2/static/css/2.f65acde2.chunk.css",
+    "static/js/2.a116370c.chunk.js": "/React-template2/static/js/2.a116370c.chunk.js",
+    "static/js/2.a116370c.chunk.js.map": "/React-template2/static/js/2.a116370c.chunk.js.map",
+    "index.html": "/React-template2/index.html",
+    "precache-manifest.a3fdfe7834c684e10219438fd5eac14f.js": "/React-template2/precache-manifest.a3fdfe7834c684e10219438fd5eac14f.js",
+    "service-worker.js": "/React-template2/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/React-template2/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.ff3b621c.chunk.css.map": "/React-template2/static/css/main.ff3b621c.chunk.css.map"
   }
 }
