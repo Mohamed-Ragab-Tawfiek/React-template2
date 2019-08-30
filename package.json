@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Mohamed-Ragab-Tawfiek/React-template2",
   "name": "counter-app",
   "version": "0.1.0",
   "private": true,
@@ -6,8 +7,8 @@
     "axios": "^0.19.0",
     "bootstrap": "^4.1.1",
     "bootstrap-v4-rtl": "^4.3.1-5",
+    "gh-pages": "^2.1.1",
     "jquery": "^3.4.1",
-    "mathjs": "^6.0.3",
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -16,6 +17,8 @@
     "styled-components": "^4.3.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
