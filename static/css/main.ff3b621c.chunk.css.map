@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,eACJ,CAEA,WACI,SAAU,CACV,WACJ","file":"main.ff3b621c.chunk.css","sourcesContent":["body {\r\n    background: #DDD;\r\n}\r\n\r\n.container{\r\n    width: 85%;\r\n    margin: auto;\r\n}"]}
